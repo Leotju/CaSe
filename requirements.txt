@@ -1,0 +1,7 @@
+torch==1.1.0
+torchvision==0.3.0
+mmcv==0.2.12
+terminaltables
+scipy
+pycocotools
+numpy==1.16.0
