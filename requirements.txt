@@ -4,4 +4,4 @@ mmcv==0.2.12
 terminaltables
 scipy
 pycocotools
-numpy==1.16.0
+numpy==1.22.0
